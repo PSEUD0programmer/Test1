@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    margin: 0 50%;
+}
+div{
+    margin: 20px 0;
+    border: 1px solid black;
+    width: 500px;
+}
+
+h2{
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(195, 12, 12);
+}
+p{
+    padding: 10px 10px;
+    color: grey;
+}
+
+svg{
+    margin: 0 100px;
+}
+
+.circle-1 {
+    fill: red;
+    fill-opacity: 0.5;
+}
+.circle-2 {
+    fill: blue;
+    fill-opacity: 0.5;
+}
+.circle-3 {
+    fill: yellow;
+    fill-opacity: 0.5;
+}
+
+img{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
